@@ -1,0 +1,4 @@
+Goals
+-----
+
+Get ASP.net to say "Hello, world!". Try to do this using MVC.
